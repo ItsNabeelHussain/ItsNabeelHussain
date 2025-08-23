@@ -2,7 +2,7 @@ name: Daily Auto Commit
 
 on:
   schedule:
-    - cron: "0 10 * * *"   # runs every day at 10:00 UTC
+    - cron: "0 10 * * *"   # runs every day at 10:00 UTC (3 PM Pakistan)
   workflow_dispatch:        # allows manual trigger
 
 jobs:
@@ -12,14 +12,14 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Make changes
+      - name: Make 10 commits
         run: |
-          echo "Daily update: $(date)" >> activity.log
-
-      - name: Commit changes
-        run: |
-          git config --global user.name "ItsNabeelHussain"
-          git config --global user.email “nabeel.arhamsoft@gmail.com"
-          git add activity.log
-          git commit -m "update file" || echo "No changes to commit"
+          git config --global user.name 'ItsNabeelHussain'
+          git config --global user.email 'nabeel.arhamsoft@gmail.com'
+          for i in {1..10}
+          do
+            echo "Daily update $i: $(date)" >> activity.log
+            git add activity.log
+            git commit -m "update file"
+          done
           git push
