@@ -82,16 +82,16 @@ I'm a **Senior Python & AI Developer** with **6+ years of experience** building 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsnabeelhussain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnabeelhussain&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsnabeelhussain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnabeelhussain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsnabeelhussain&theme=tokyonight" alt="itsnabeelhussain" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsnabeelhussain&theme=tokyonight&hide_border=true" alt="itsnabeelhussain" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsnabeelhussain&theme=tokyonight&row=1&column=7" alt="itsnabeelhussain" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itsnabeelhussain&theme=tokyonight&row=1&column=6&margin-h=8&margin-w=15&no-bg=true" alt="itsnabeelhussain" />
 </div>
 
 ### 🎓 Certifications & Education
