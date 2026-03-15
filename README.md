@@ -106,22 +106,7 @@ I'm a **Senior Python & AI Developer** with **6+ years of experience** building 
 **Senior Python & AI Developer** @ Conovo Technologies (Aug 2023 – Present)  
 **Python Developer** @ ArhamSoft Technologies (Oct 2018 – Aug 2023)
 
-### 📫 Let's Connect
 
-<p align="left">
-<a href="https://linkedin.com/in/nabeel-hussain1018" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nabeel hussain" />
-</a>
-<a href="https://twitter.com/m nabeel" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="m nabeel" />
-</a>
-<a href="https://kaggle.com/nabeel hussain" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="nabeel hussain" />
-</a>
-<a href="mailto:nabeel73jb@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-</a>
-</p>
 
 ---
 
