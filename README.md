@@ -2,13 +2,6 @@
 
 ## Senior Python & AI Developer | 6+ Years Experience
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=itsnabeelhussain&label=Profile%20views&color=0e75b6&style=flat" alt="itsnabeelhussain" /> 
-  <a href="https://twitter.com/m nabeel" target="blank">
-    <img src="https://img.shields.io/twitter/follow/m nabeel?logo=twitter&style=for-the-badge" alt="m nabeel" />
-  </a>
-</p>
-
 ### 🚀 About Me
 
 I'm a **Senior Python & AI Developer** with **6+ years of experience** building scalable backend systems and AI/ML applications. I specialize in creating intelligent solutions that drive real business impact.
